@@ -22,4 +22,5 @@ is_ultra — каким тарифом пользовался в течение 
 
 ## Используемые библиотеки: ##
 - pandas
-- sklearn
+- sklearn-learn
+- Matplotlib
