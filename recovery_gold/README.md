@@ -14,6 +14,6 @@
 
 ## Используемые библиотеки: ##
 - pandas
-- sklearn-
+- sklearn
 - Matplotlib
 - numpy
