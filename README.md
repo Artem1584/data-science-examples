@@ -13,3 +13,5 @@
 |7. [Прогнозирование оттока клиента Банка](https://github.com/Artem1584/data-science-examples/tree/main/customer_churn_project) |На основе данных из банка определить клиент, который может уйти |`pandas matplotlib scikit-learn` |
 |8. [Выбор локации для скважины](https://github.com/Artem1584/data-science-examples/tree/main/location_for_wells)| Построить модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль| `pandas numpy math sklearn-learn Bootstrap`|
 |9. [Исследование технологического процесса очистки золота](https://github.com/Artem1584/data-science-examples/tree/main/recovery_gold)|Спрогнозировать концентрацию золота при проведении процесса очистки золота | `pandas sklearn matplotlib numpy`|
+|10. [Защита персональных данных клиентов](https://github.com/Artem1584/data-science-examples/tree/main/protection_of_personal_information)|
+Разработка модели анонимизации персональных данных| `pandas sklearn-learn numpy`|
