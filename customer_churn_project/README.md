@@ -47,4 +47,4 @@ Exited — факт ухода клиента
 ## Используемые библиотеки: ##
 - pandas
 - matplotlib
-- Scikit-learn
+- scikit-learn
