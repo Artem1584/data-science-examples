@@ -1,2 +1,3 @@
 # data-science-examples
-Different data analysis examples
+
+Репозиторий содержит учебные проекты Яндекс Практикума
