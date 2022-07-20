@@ -16,3 +16,4 @@
 |10. [Защита персональных данных клиентов](https://github.com/Artem1584/data-science-examples/tree/main/protection_of_personal_information)| Разработка модели анонимизации персональных данных| `pandas sklearn-learn numpy`|
 |11. [Построение модели определения стоимости автомобиля](https://github.com/Artem1584/data-science-examples/tree/main/car%20cost)|Разработка системы рекомендации стоимости автомобиля на основе его описания |`pandas sklearn-learn matplotlib numpy lightgbm catboost`|
 |12. [Прогнозирование количества заказов такси на следующий час](https://github.com/Artem1584/data-science-examples/tree/main/taxi_order_forecasting)|Разработка системы предсказания объема заказа| `pandas sklearn-learn matplotlib numpy statsmodels`|
+|13. [Обучение модели классификации комментариев](https://github.com/Artem1584/data-science-examples/tree/main/toxic_comments)|Определение токсичности комментарии|`pandas sklearn-learn numpy re nltk spacy sys`|
