@@ -18,4 +18,4 @@
 |12. [Прогнозирование количества заказов такси на следующий час](https://github.com/Artem1584/data-science-examples/tree/main/taxi_order_forecasting)|Разработка системы предсказания объема заказа| `pandas sklearn-learn matplotlib numpy statsmodels`|
 |13. [Обучение модели классификации комментариев](https://github.com/Artem1584/data-science-examples/tree/main/toxic_comments)|Определение токсичности комментарии|`pandas sklearn-learn numpy re nltk spacy sys`|
 |14. [Обработка фотографий покупателя](https://github.com/Artem1584/data-science-examples/tree/main/age_photo)|Определение возраста по фотографии| `pandas sklearn-learn matplotlib tensorflow`|
-|15. [Спрогнозировать отток клиентов провайдера](https://github.com/Artem1584/data-science-examples/tree/main/finish_project)| |
+|15. [Спрогнозировать отток клиентов провайдера](https://github.com/Artem1584/data-science-examples/tree/main/finish_project)| Спрогнозировать отток клиентов у интернет-провайдера | `pandas sklearn-learn matplotlib numpy lightgbm catboost` |
